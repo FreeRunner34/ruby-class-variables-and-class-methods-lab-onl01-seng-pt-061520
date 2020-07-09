@@ -1,4 +1,7 @@
 class Song 
+
+attr_accessor = ()
+
 @@song_count = 0
 @@genres = []
 @@artists = []
