@@ -1,5 +1,6 @@
 class Song 
-@@count = 0 
+@@song_count = 0
+@@
 
   
 end 
