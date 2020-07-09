@@ -3,6 +3,6 @@ class Song
 @@genres = []
 @@artists = []
 
-def initialize(song)
+def initialize(name, artists, genres)
   
 end 
